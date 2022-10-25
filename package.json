@@ -1,5 +1,5 @@
 {
-  "name": "@wouterlms/global-icons",
+  "name": "@wouterlms/icons",
   "type": "module",
   "version": "0.0.1",
   "packageManager": "pnpm@7.12.0",
