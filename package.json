@@ -7,7 +7,11 @@
   "author": "Wouter",
   "license": "MIT",
   "keywords": [],
+  "private": false,
   "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",

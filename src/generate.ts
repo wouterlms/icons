@@ -16,7 +16,7 @@ const generateIconList = async (): Promise<void> => {
   }
 
   const iconContent = `${Object.entries(iconObject).map(([key, value]) => {
-return `export const ${key} = "${value}"`
+return `export const ${key} = \`${value}\``
 }).join('\n')}
 `
 
