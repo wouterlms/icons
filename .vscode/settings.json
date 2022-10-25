@@ -1,0 +1,5 @@
+{
+  "indexFileGenerator.exclude": [
+    "/Users/wouter/Documents/projects/vite-plugins/global-icons/src/index.ts"
+  ]
+}
